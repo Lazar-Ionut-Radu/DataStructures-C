@@ -30,6 +30,4 @@ list_node_t *ll_remove(linked_list_t *list, size_t pos);
 
 void *ll_free(linked_list_t *list);
 
-void ll_print(linked_list_t *list);
-
 #endif // LINKED_LIST_H
